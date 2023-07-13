@@ -16,7 +16,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 ### Links
 
 - Solution URL: [Four card feature section solution](https://www.frontendmentor.io/solutions/product-preview-card-component-qV_vrtvOPS)
-- Live Site URL: [Four card feature section](https://codeyenum.github.io/product-preview-card-component-main/)
+- Live Site URL: [Four card feature section](https://codeyenum.github.io/four-card-feature-section-master/)
 
 ## My process
 
